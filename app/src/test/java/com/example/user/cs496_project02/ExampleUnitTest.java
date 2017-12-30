@@ -1,4 +1,4 @@
-package com.example.user.cs296_project_2;
+package com.example.user.cs496_project02;
 
 import org.junit.Test;
 
